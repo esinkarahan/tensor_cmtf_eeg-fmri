@@ -2,8 +2,8 @@
 Coupled matrix-tensor factorization for integrating EEG and fMRI in the source space  
 
 I proposed a novel algorithm to integrate two modalities that contain complementary information on brain function:
--EEG measures brain potentials in milliseconds temporal resolution from scalp however EEG signals are affected from volume conduction which requires source localization to infer the real neural generators in the brain.
--fMRI measures metabolic signal called BOLD that is related to neural activity in a high spatial resolution of millimeters however its temporal resolution is limited.
+* EEG measures brain potentials in milliseconds temporal resolution from scalp however EEG signals are affected from volume conduction which requires source localization to infer the real neural generators in the brain.
+* fMRI measures metabolic signal called BOLD that is related to neural activity in a high spatial resolution of millimeters however its temporal resolution is limited.
 
 Integration of these brain signals that are recorded simulatneously can give more information on brain function.
 
